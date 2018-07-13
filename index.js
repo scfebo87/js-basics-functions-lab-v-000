@@ -13,7 +13,7 @@ function distanceTravelledInFeet(begin, end) {
 function calculatesFarePrice(begin, end) {
   let feet = distanceTravelledInFeet(begin, end);
   if feet <= 400 {
-    return "free"
+    return 0;
   }
   else if feet > 400 && feet <= 2000 {
     
