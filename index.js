@@ -19,6 +19,9 @@ function calculatesFarePrice(begin, end) {
     let amount = feet - 400;
     amount * 0.02; 
   }
-  else if feet > 2000 && feet < 2500
+  else if feet > 2000 && feet < 2500 {
+    return 25;
+  }
+  else 
   }
 }
