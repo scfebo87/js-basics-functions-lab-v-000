@@ -11,5 +11,5 @@ function distanceTravelledInFeet(begin, end) {
 }
 
 function calculatesFarePrice() {
-  if 
+  
 }
