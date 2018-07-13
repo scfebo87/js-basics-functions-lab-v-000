@@ -1,3 +1,3 @@
-function distanceFromHqInBlocks(x, y) {
+function distanceFromHqInBlocks(begin) {
   return (x-y);
 }
