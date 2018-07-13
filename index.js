@@ -1,3 +1,3 @@
 function distanceFromHqInBlocks(begin) {
-  return (begin - 42);
+  return Math.abs(begin - 42);
 }
