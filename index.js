@@ -10,6 +10,6 @@ function distanceTravelledInFeet(begin, end) {
   return Math.abs((begin - end)*264);
 }
 
-function calculatesFarePrice() {
+function calculatesFarePrice(begin, end) {
   let feet = distanceTravelledInFeet(begin, end);
 }
