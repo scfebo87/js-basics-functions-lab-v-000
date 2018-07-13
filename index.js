@@ -6,4 +6,6 @@ function distanceFromHqInFeet(begin) {
   return Math.abs((begin - 42)*264);
 }
 
-function TravelledInFeet
+function travelledInFeet(begin, end) {
+  return Math.abs((begin - end)*264);
+}
