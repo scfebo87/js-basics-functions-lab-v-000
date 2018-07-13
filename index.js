@@ -1,1 +1,1 @@
-function distanceFromHQInBlocks
+function distanceFromHqInBlocks
